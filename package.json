@@ -11,9 +11,9 @@
   },
   "dependencies": {
     "jspdf": "^3.0.1",
-    "react": "^19.0.0",
+    "react": "^18.0.0",
     "react-beautiful-dnd": "^13.1.1",
-    "react-dom": "^19.0.0",
+    "react-dom": "^18.0.0",
     "react-easy-crop": "^5.4.1"
   },
   "devDependencies": {
