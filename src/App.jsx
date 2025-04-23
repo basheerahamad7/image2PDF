@@ -13,7 +13,7 @@ function App() {
   const [croppedAreaPixels, setCroppedAreaPixels] = useState(null);
   const [currentImage, setCurrentImage] = useState(null);
   const [isCropping, setIsCropping] = useState(false);
-  const [pdfFileName, setPdfFileName] = useState("type PDF name");
+  const [pdfFileName, setPdfFileName] = useState("enter PDF name");
 
   const handleImageUpload = (e) => {
     const files = Array.from(e.target.files);
